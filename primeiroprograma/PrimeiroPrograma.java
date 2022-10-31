@@ -1,7 +1,7 @@
 package primeiroprograma;
 
-class PrimeiroPrograma {
+public class PrimeiroPrograma {
     public static void main(String[] args) {
-        System.out.print("Olá, Mundo!");
+        System.out.printf("Olá, Mundo!");
     }
 }
